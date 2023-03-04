@@ -1,6 +1,6 @@
 # Optimizing the Big Data Problem Statement
 
-<a href="https://www.amazon.com/dp/B0BXFYZKWR"><img src="https://static.packt-cdn.com/products/9781801072137/cover/smaller" alt="Optimizing the Big Data Problem Statement" height="256px" align="right"></a>
+<a href="https://www.amazon.com/dp/B0BXFYZKWR"><img src="https://m.media-amazon.com/images/I/41f+2j1K6JL.jpg" alt="Optimizing the Big Data Problem Statement" height="256px" align="right"></a>
 
 This is the code repository for [Optimizing the Big Data Problem Statement](https://www.packtpub.com/product/hands-on-data-preprocessing-in-python/9781801072137), published by Roy Jafari. 
 
