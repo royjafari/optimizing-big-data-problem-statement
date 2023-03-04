@@ -13,7 +13,7 @@ The first objective is that we would like to minimize the cost we have to incur 
 This book comprises of the following chapters:
 * Chapter 1, Understanding Big Data Problems
 * Chapter 2, Cross-Industry Standard Process for Data Mining (CRISP-DM)
-* Chapter3, Data Solution Life Cycle (DSLC)
+* Chapter 3, Data Solution Life Cycle (DSLC)
 * Chapter 4, Types of Data Manipulations
 * Chapter 5, Recognizing the right data-prep problem
 
