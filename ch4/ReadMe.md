@@ -7,5 +7,7 @@ Download *US_Temp_simulated.csv* from this [link](https://www.dropbox.com/s/51cs
 
 Dwnload *Chapter_4_Study1_Empty.docx* from this [link](https://www.dropbox.com/s/4y5w91gfin6p2os/Chapter_4_Study1_Empty.docx?dl=1), and its solution file *Chapter_4_Study1.pdf* from this [link](https://www.dropbox.com/s/yp1fsyf0oamdxgz/Chapter_4_Study1.pdf?dl=1)
 
+Dwnload *Chapter_4_Study2.pdf* from this [link](https://www.dropbox.com/s/i16f1a0nsgq02hz/Chapter_4_Study2.pdf?dl=1)
+
 Download the solutions from this [link]().
 
