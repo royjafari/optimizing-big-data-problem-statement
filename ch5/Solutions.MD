@@ -22,3 +22,5 @@
 -	The second one is only measurable. The metric is how fast the API responds. It is, however, not value-centered.
 -	The third one is not value centered or measurable.  
 
+## Exercise 6 - Solving the wrong problem
+**Answer**: The third one is the highest priority. The reason is that in the second stage of the Data Solution Life Cycle, we don’t yet if we have an MVP, so our priority is getting to the point to answer if there is an MVP or not, and the matters of efficiency such as how long a piece of code takes is not as important as matters of effectiveness such as if the data integration is correct. 
