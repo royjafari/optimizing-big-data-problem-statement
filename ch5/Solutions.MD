@@ -10,3 +10,10 @@
 ## Exercise 3 – Which problem statement is concise, cross-functional, and knowledge-driven?
 **Answer**: The third one - *”We have found a repeatable flaw in the Twitter Intelligence system. The codes downstream to the tweet digestion will fail if there is a gap in data coming from the tweet digestion code; gaps in the data are possible and unavoidable.”* -  is the middle ground between cross-functional and knowledge-driven. The first one is very concise and knowledge-driven, and the second one is too cross-functional. 
 
+## Exercise 4 – Which problem statement is atomic?
+**Answer**: The three separate problem statements are listed below.
+-	Subscribers complaining about the unavailability of the services
+-	Tweet digestion system has failed
+-	Downstream codes to the tweet digestion system expect full data, and the gap in the data will lead to errors. 
+
+
