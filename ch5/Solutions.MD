@@ -16,4 +16,9 @@
 -	Tweet digestion system has failed
 -	Downstream codes to the tweet digestion system expect full data, and the gap in the data will lead to errors. 
 
+## Exercise 5 – which problem statements are value centered and measurable?
+**Answer**:
+-	The first one is both measurable and value-centered. The metric to evaluate the possible solutions is the time it takes for the algorithm to work, and the value is the competitiveness of Google’s search engine usage. 
+-	The second one is only measurable. The metric is how fast the API responds. It is, however, not value-centered.
+-	The third one is not value centered or measurable.  
 
