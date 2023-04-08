@@ -24,3 +24,33 @@
 
 ## Exercise 6 - Solving the wrong problem
 **Answer**: The third one is the highest priority. The reason is that in the second stage of the Data Solution Life Cycle, we don’t yet if we have an MVP, so our priority is getting to the point to answer if there is an MVP or not, and the matters of efficiency such as how long a piece of code takes is not as important as matters of effectiveness such as if the data integration is correct. 
+
+## Exercise 7 – Recognizing the right big-data problem statement
+### -	Point of Interest (POI) Recommendation
+1.	No, it is not cross-functional. We wouldn’t expect all the data professionals to know “Association Rules Analysis”, “A Priority Algorithm” or “Itemset”. 
+2.	Yes. The statement is Knowledge driven. The statement is full of technical terms. 
+3.	No, the statement is not value-centered. It is not obvious why giving recommendations to users will be helpful for the application.
+4.	Yes, the statement is measurable. The search time is the metric.  
+5.	Stage 5 – Deployment
+
+### Ambulance Priority Management
+1.	Yes, it is cross-functional. There are almost no technical terms in the statement. 
+2.	Yes. The statement is Knowledge driven. You have to know the concept of “data solution” to be able to understand it. 
+3.	No, the statement is not value-centered. It is not obvious why having a severity score can be helpful.
+4.	Yes, the statement is measurable, but not fully. One measure is the 20-second cut-off point for the calculation of the severity score, but it is not mentioned how the severity score will be evaluated.  
+5.	Stage 2 – Data Acquisition & Integration
+
+### Predicting solar energy generation
+1.	Yes, it is cross-functional. There is not a lot of specialized terminology in the statement. The only technical word is “train” which is a very commonplace concept among all data professionals.
+2.	Yes. The statement is Knowledge driven. You have to know the concept of “train” and “algorithm” to be able to understand. 
+3.	Yes, the statement is value-centered. The value of improving the algorithm of a self-driving car is evident.
+4.	Yes, the statement is measurable. If we find a new source of data with a ratio of rare events higher than 1% we know we have been successful.  
+5.	Stage 2 – Data Acquisition & Integration
+
+### Self-driving car algorithm
+1.	No, it is not cross-functional. The terms that are perhaps too technical are “jet stream”, “MVP”, and “processing latency”.
+2.	Yes. The statement is Knowledge driven. You have to know the concept of “MVP”, “accuracy”, and “predict” to be able to understand. 
+3.	No, the statement is value-centered. The audience might not know why predicting the amount of electricity generation might be useful. 
+4.	Yes, the statement is measurable. Metric: processing latency.
+5.	Stage 5 – Deployment
+
