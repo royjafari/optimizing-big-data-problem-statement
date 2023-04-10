@@ -8,3 +8,6 @@ Download employee_simulated.csv from this [link](https://www.dropbox.com/s/kplkz
 
 ## Solutions
 Download the solutions from this [link](https://www.dropbox.com/s/myupp3c432qhion/CaseStudy-Answers-ch3.pdf?dl=1), or see the [Solution.MD](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch3/Solutions.MD) markdown file.
+
+## Codes
+See [generate_figures.ipynb](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch3/generate_figures.ipynb) that has all the codes that create the data plots presented in this chapter.
