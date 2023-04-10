@@ -11,3 +11,5 @@ Download the solutions from this [link](https://www.dropbox.com/s/myupp3c432qhio
 
 ## Codes
 See [generate_figures.ipynb](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch3/generate_figures.ipynb) that has all the codes that create the data plots presented in this chapter.
+
+See [Generate_Simulated_employees.ipynb](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch3/data/Generate_Simulated_employees.ipynb) under the folder [data](https://github.com/royjafari/optimizing-big-data-problem-statement/tree/main/ch3/data) that shows the codes that randomly generated *employee_simulated.csv*.
