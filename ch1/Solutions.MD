@@ -1,6 +1,6 @@
 # Answers to Case Studies Chapter 1
 
-The answers to the questions that were raised in **Case Study  1 – Autonomous Vehicles of Chapter 1 are provided here.
+The answers to the questions that were raised in **Chapter 1** are provided here.
 
 ## Study tips
  - Make sure to have given the questions a try before reading my answers
