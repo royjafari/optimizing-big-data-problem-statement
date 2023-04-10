@@ -53,9 +53,10 @@ While the first, and third issues are not directly because of bid data but big d
 Lastly, the third issue is an aftermath of a big data issue not having been solved (second issue) and causing more issues. 
 
 **Q2. Specify the direction of growth in the big data situation(s) that you identified in Q1. If there is more than one big data situation, specify per situation.**
+
 This is already answered in the response to Q1, pay attention to the capital Vs. 
 
-**Q3. Using Figure 1.3, what do you believe is the skill level of the R&D team regarding big data? Are they at or around Data Analysts, Data Scientists, or Data Engineers? Provide reasons for your thoughts. **
+**Q3. Using Figure 1.3, what do you believe is the skill level of the R&D team regarding big data? Are they at or around Data Analysts, Data Scientists, or Data Engineers? Provide reasons for your thoughts.**
 
 Regarding Figure 1.3, the team’s skill level is at the Data Scientist level. This is obvious as the team was successful at all the modeling aspects, however, they had the most issues with deployment at Scale, adding some data engineering skills can significantly improve the team’s performance. 
 
@@ -65,7 +66,7 @@ As mentioned under Q1, the only big data situation was issue 2. As the Volume of
 The team could learn about code optimization, data pipelining, and model orchestrations to improve the performance of the solution so it can meet the required volume or velocity. Furthermore, the team could also buy more compute resources, and scale up the resources vertically so that when there is more traffic, there are more computers to handle the requests.   
 
 ## Case Study 3: Cryptocurrency Twitter Intelligence
-**Q1. Draw a data flow similar to Figure 1.1 and Figure 1.2. You will have to first what are the internal data solutions and make sure that the flow of the data is logical and reasonable. **
+**Q1. Draw a data flow similar to Figure 1.1 and Figure 1.2. You will have to first what are the internal data solutions and make sure that the flow of the data is logical and reasonable.**
 
 For a successful Cryptocurrency Twitter Intelligence, we the company would need the following data solutions. 
  - Hourly Twitter Feed Digestion
@@ -78,22 +79,26 @@ A logical flow of these data solutions would look like the following. The DS Hou
 
 ![Data-Solutions-AutoTrade.png](Data-Solutions-AutoTrade.png "Data Solutions - AutoTrade")
 
-Q2
-Specify the HLCUs of the data at each internal data solution in the data flow you created for Q1.
-The HLCUs for the flowing data in the above diagram are computers, except for the tweet inputs. That being said, the flowing data at all levels are understandable for human language too.  
-Q3
-Before the company moves forward with the listed possible improvements listed above, specify which type of big data situation might the company find itself in. Also, specify the direction of data growth in the big data situation. 
-The company will likely have to face many big data situations that will force them to use all and combinations of dealing with big data situations. The suggested possible improvements will take the company to new data territory with higher Volume, higher Velocity, and higher Variety. 
-Let’s go over the list of improvements one by one and discuss the directions of data growth for each. 
-Increase the number of Twitter accounts from 100 to 1000.	Higher Velocity
-Include the comments, and retweets of the relevant tweets into the weighted sentiment calculations	Higher Velocity and Variety
-Add news and article feeds into the weighted sentiment calculations	Higher Variety
-Increase the number of currencies from only three to 20	Higher Volume
-Engaging in stock market automatic trading besides cryptocurrency trading. Phase one will only include 20 stock market tickers of famous companies such as Amazon, Google, and Microsoft	Higher Variety
+**Q2. Specify the HLCUs of the data at each internal data solution in the data flow you created for Q1.**
 
-Q4
-Specify the strategy or strategies that the company should consider in dealing with the big data situations you found in Q3. 
+The HLCUs for the flowing data in the above diagram are computers, except for the tweet inputs. That being said, the flowing data at all levels are understandable for human language too.
+
+**Q3. Before the company moves forward with the listed possible improvements listed above, specify which type of big data situation might the company find itself in. Also, specify the direction of data growth in the big data situation.**
+
+The company will likely have to face many big data situations that will force them to use all and combinations of dealing with big data situations. The suggested possible improvements will take the company to new data territory with higher Volume, higher Velocity, and higher Variety. 
+
+Let’s go over the list of improvements one by one and discuss the directions of data growth for each. 
+
+ - Increase the number of Twitter accounts from 100 to 1000.	Higher Velocity
+ - Include the comments, and retweets of the relevant tweets into the weighted sentiment calculations	Higher Velocity and Variety
+ - Add news and article feeds into the weighted sentiment calculations	Higher Variety
+ - Increase the number of currencies from only three to 20	Higher Volume
+ - Engaging in stock market automatic trading besides cryptocurrency trading. Phase one will only include 20 stock market tickers of famous companies such as Amazon, Google, and Microsoft	Higher Variety
+
+**Q4. Specify the strategy or strategies that the company should consider in dealing with the big data situations you found in Q3.**
+
 A combination of the three strategies - Buying More Technology, Skilling Up, and Compromising - will likely be needed. It is impossible to specify which ones will be appropriate for which big data situations, as more details about the circumstances of each situation will likely be very important deciding factors.
-Q5
-Draw and updated data flow after having implemented all the listed improvements and the strategies for dealing with big data problems.  
+
+**Q5. Draw and updated data flow after having implemented all the listed improvements and the strategies for dealing with big data problems.**
+
 The data flow diagram will likely stay the same unless the new methods are used. 
