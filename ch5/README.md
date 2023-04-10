@@ -1,16 +1,4 @@
 # Chapter 5: Recognizing the right data-prep problem
 
-## Figures
-  - xxx this [link]().
-
-## Data
-  - xxx this [link]()
-  - xxx this [link](https://www.dropbox.com/s/51cs1ry2kc0gmnt/US_Temp_simulated.csv?dl=1)
-
 ## Solutions
- - xxx this [link]()
- - xxx this [link]()
- - xxx this [link](
-
-Download the solutions from this [link]().
-
+ - Download the solutions from this [link](https://www.dropbox.com/s/7ywrrjyl34s1hfv/CaseStudy-Answers-ch5.pdf?dl=1), or see the [Solution.MD](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch5/Solutions.MD) markdown file.
