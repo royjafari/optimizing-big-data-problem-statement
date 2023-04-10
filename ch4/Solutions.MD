@@ -74,5 +74,7 @@ It is related to data reduction as one of the methods to deal with this problem 
 
 The Supervised dimension reduction is also called feature selection. It is the task of finding the subset of attributes that will lead to the best classification/prediction performance. 
 In contrast, unsupervised dimension reduction is about finding a new representation of the data that keeps the most important part of the data and cut the fluff out. 
+
 Three tools for supervised dimension reduction: Decision/Regression Tree, Random Forest, Brute-force dimension reduction
+
 Three tools for unsupervised dimension reduction: Principal Component Analysis, Functional Data Reduction, Feature extractio
