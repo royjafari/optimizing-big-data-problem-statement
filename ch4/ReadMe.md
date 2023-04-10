@@ -8,9 +8,9 @@
   - Download *US_Temp_simulated.csv* from this [link](https://www.dropbox.com/s/51cs1ry2kc0gmnt/US_Temp_simulated.csv?dl=1)
 
 ## Solutions
- - Dwnload *Chapter_4_Study1_Empty.docx* from this [link](https://www.dropbox.com/s/4y5w91gfin6p2os/Chapter_4_Study1_Empty.docx?dl=1), and its solution file *Chapter_4_Study1.pdf* from this [link](https://www.dropbox.com/s/yp1fsyf0oamdxgz/Chapter_4_Study1.pdf?dl=1)
- - Dwnload *Chapter_4_Study2.pdf* from this [link](https://www.dropbox.com/s/i16f1a0nsgq02hz/Chapter_4_Study2.pdf?dl=1)
- - Dwnload *Chapter_4_Study3.pdf* from this [link](https://www.dropbox.com/s/25s8p8nzaxgrcoe/Chapter_4_Study3.pdf?dl=1)
-
-Download the solutions from this [link]().
+ - Dwnload the solutions from this [link](https://www.dropbox.com/s/m7ho8novvxc2upv/CaseStudy-Answers-ch4.pdf?dl=1), or see the [Solution.MD](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch4/Solutions.MD) markdown.
+ 
+ ## Codes
+ - The file [Chapter4.ipynb](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch4/Chapter%204.ipynb) includes the codes that are presented throughout the chapter. 
+ - The folder [solutions](https://github.com/royjafari/optimizing-big-data-problem-statement/tree/main/ch4/solutions) include file [data-cleaning-example.ipynb](https://github.com/royjafari/optimizing-big-data-problem-statement/blob/main/ch4/solutions/data-cleaning-example.ipynb) that has the solution for **Example of Level 1 Data Cleaning – Writing a quick Lookup function**.
 
