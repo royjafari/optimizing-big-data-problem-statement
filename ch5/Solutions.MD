@@ -57,15 +57,19 @@
 ## Exercise 8 – writing the right problem statement
 ### Case Study: **Employee Relationship Management**. Theme: **Stage 2 Data Acquisition & Integration**.
 **Answer**: This is only one of many possible answers. 
+
 We want to integrate the following two data sources, but their aggregation level does not match.
 -	Employees’ performance review
 -	Employees’ operational data, for example, their online communications with customers and colleague
+
 The first one’s new data objects come quarterly, and the second one’s new data objects come hourly. How should we aggregate the data?
 
 ### Case Study: **Dynamic Pricing**. Theme: **Stage 3 Data Cleaning & Massaging**.
 **Answer**: This is only one of many possible answers. 
+
 The competition web scraped pricing data has missing values. If the scraping scripts fail due to various reasons, the price will be recorded as NULL. How should we deal with these missing values so the price optimization algorithm is most successful?
 
 ### Case Study: **Credit Card Transaction Fraud Detection**. Theme: **Stage 5 Deployment**
 **Answer**: This is only one of many possible answers.
+
 A new Fraud Detection system can decide if a transaction request is fraudulent or not in 2.5 seconds. Two ways can reduce this to milliseconds territory. 1) Code optimization (a 2-month job for an experienced data engineer) or 2) Purchasing more powerful compute resources from AWS. The first one will incur a one-time cost of $20,000 (the compensation for Data Engineer) and the system will be usable in three months, the second one the system will be usable from tomorrow but our AWS bill increase by $200 monthly. Which strategy should we use?   
